@@ -1,0 +1,12 @@
+## Folders
+
+/Other/*
+/Meeting_Notes/*
+/Source/SubClonalSelection/
+/Source/analysis/example/*
+**/.ipynb_checkpoints/*
+
+## Files
+
+out.jls
+*.pdf
