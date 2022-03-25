@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\SubClonalSelection"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\.julia\\packages\\CancerSeqSim\\CGiBZ\\src"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\.julia\\packages\\SubClonalSelection\\jM6v9\\src"
+		}
+	],
+	"settings": {}
+}
