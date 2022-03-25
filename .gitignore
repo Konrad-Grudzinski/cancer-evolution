@@ -1,12 +1,45 @@
+## Jupyter notebook specific files
+
+**/.ipynb_checkpoints/*
+**/__pycache__/*
+
+
+
 ## Folders
 
+/DataSets/*
 /Other/*
 /Meeting_Notes/*
-/Source/SubClonalSelection/
-/Source/analysis/example/*
-**/.ipynb_checkpoints/*
 
-## Files
+/Source/bcftools-1.14
+/Source/freebayes
+/Source/hisat2-2.2.1
+/Source/kalign
+/Source/libtool-2.4.6
+/Source/muscle
+/Source/ncbi_cmdtools
+/Source/samtools-1.14
+/Source/SubClonalSelection
+/Source/Trimmomatic
+
+/Source/covid19/SubClonalSelection
+
+/Source/analysis/example/
+/Source/analysis/data/
+
+
+## File types
+
+*.pdf
+*.ht2
+*.fai
+
+
+## Specific files
 
 out.jls
-*.pdf
+/Source/covid19/samples.json
+/Source/covid19/sorted_samples.json
+/Source/covid19/lookedup_samples.txt
+/Source/covid19/UK_R-values.xlsx
+/Source/covid19/todo.txt
