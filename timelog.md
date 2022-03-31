@@ -1,26 +1,157 @@
 # Timelog
 
-* PROJECT NAME
+* Quantifying subclonal selection in Covid19 pandemic
 * Konrad Grudzinski
 * 2408448g
 * Ke Yuan
 
-## Guidance
+## Week 1
 
-* This file contains the time log for your project. It will be submitted along with your final dissertation.
-* **YOU MUST KEEP THIS UP TO DATE AND UNDER VERSION CONTROL.**
-* This timelog should be filled out honestly, regularly (daily) and accurately. It is for *your* benefit.
-* Follow the structure provided, grouping time by weeks.  Quantise time to the half hour.
+### 08 Oct 2021
+
+* *0.5 hours* Kick-off meeting with advisor
+
+
+
+## Week 2
+
+## 13 Oct 2021
+
+* *3 hour* Read and summarised suggested paper from project proposal
+
+## 14 Oct 2021
+
+* *5 hour* Intro Tensorflow with example on DCGAN + paper about DCGAN
+
+
+
+## Week 3
+
+## 18 Oct 2021
+
+* *1 hour* Paper on ABC SMC model selection
+
+## 21 Oct 2021
+
+* *4 hour* Debug setup Julia and R + intro to Julia
+
+## 23 Oct 2021
+
+* *3 hour* Debug code from paper, still not working as expected
+
+
+
+## Week 4
+
+## 21 Oct 2021
+
+* *4 hour* Deep debugging
+
+## 23 Oct 2021
+
+* *4 hour* Trying out + transform data sets
+
+
+
+## Week 5
+
+## 02 Nov 2021
+
+* *1.5 hour* Read on VAF
+
+
 
 ## Week 1
 
-### 19 Oct 2019
 
-* *4 hours* Read the project guidance notes
-* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
-* *1 hour* Modified dissertation template, compiled  
 
-## 20 Oct 2019
+## Week 1
 
-* *1 hour* meeting with supervisor
-* *2 hours* writing initial version of test harness
+
+
+## Week 1
+
+
+
+## Week 1
+
+
+
+## Week 1
+
+
+
+## Week 1
+
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
+
+
+## Week 1
