@@ -1,0 +1,235 @@
+# Timelog
+
+* Quantifying subclonal selection in Covid19 pandemic
+* Konrad Grudzinski
+* 2408448g
+* Ke Yuan
+
+## Week 1
+
+### 08 Oct 2021
+
+* *0.5 hours* Kick-off meeting with advisor
+
+
+
+## Week 2
+
+## 13 Oct 2021
+
+* *3 hours* Read and summarised suggested paper from project proposal
+
+## 14 Oct 2021
+
+* *5 hours* Intro Tensorflow with example on DCGAN + paper about DCGAN
+
+
+
+## Week 3
+
+## 18 Oct 2021
+
+* *1 hour* Paper on ABC SMC model selection
+
+## 21 Oct 2021
+
+* *4 hours* Debug setup Julia and R + intro to Julia
+
+## 22 Oct 2021
+
+* *0.5 hours* Meeting with advisor
+
+## 23 Oct 2021
+
+* *3 hours* Debug code from paper, still not working as expected
+
+
+
+## Week 4
+
+## 25 Oct 2021
+
+* *4 hours* Deep debugging
+
+## 26 Oct 2021
+
+* *4 hours* Trying out + transform data sets
+
+
+
+## Week 5
+
+## 02 Nov 2021
+
+* *1.5 hours* Read on VAF
+
+
+
+## Week 14
+
+## 09 Jan 2022
+
+* *2 hours* Reading back in; plot provided example VAF
+
+
+
+## Week 15
+
+## 10 Jan 2022
+
+* *2.5 hours* Reading more
+* *3 hour* Checking code for steps to replace with NN (sample generation given parameters instead of simulation)
+* *0.5 hours* Reading paper
+
+## 11 Jan 2022
+
+* *5 hours* Researching and thinking about how to speed up computation with GAN (given parameters, create a CDF) instead of simulation
+
+## 12 Jan 2022
+
+* *5 hours* Getting Julia to work in Google Colab & the simulator and basic GAN
+
+## 13 Jan 2022
+
+* *9 hours* Porting simulation package to Python to run it in Google Colab, Julia is just to much of a fuss there
+
+## 14 Jan 2022
+
+* *0.5 hours* Meeting with advisor (change of topic)
+
+
+
+## Week 16
+
+## 19 Jan 2022
+
+* *3 hours* Looking for data sets
+* *1.5 hours* Figuring out how to get VAFs (not found)
+
+## 21 Jan 2022
+
+* *5 hours* Trying to get VAFs or VCF file from downloaded dataset using script
+
+
+
+## Week 17
+
+## 26 Jan 2022
+
+* *5 hours* First VCF files, but how find VAFs
+
+## 27 Jan 2022
+
+* *3 hours* Further VCF analysis and finding VAFs
+
+## 28 Jan 2022
+
+* *1 hour* Meeting with advisor
+* *6 hours* VAFs extraction and meta data downloading
+
+
+
+## Week 18
+
+## 31 Jan 2022
+
+* *3 hours* Binning metadata by time & place
+* *3.5 hours* Writing analysis pipeline
+* *2 hours* First analysis
+
+## 01 Feb 2022
+
+* *5 hours* Speed up script by changing parameters and programs and show execution in open terminal
+* *2 hours* Ironing out last errors
+
+## 02 Feb 2022
+
+* *1 hour* Bugfixes
+
+
+
+## Week 20
+
+## 16 Feb 2022
+
+* *4 hours* Investigating correct parameters for ABC, comparing results for raw and filtered data
+
+## 17 Feb 2022
+
+* *5 hours* Getting the code precompiled and calling it from multiple processes to speed up computation
+
+## 18 Feb 2022
+
+* *0.5 hours* Meeting with advisor
+* *0.5 hours* Minor things
+
+
+
+## Week 22
+
+## 02 Mar 2022
+
+* *2 hours* Download & analyse frequency data sets
+* *3.5 hours* Collect model probabilities and plot the two in graphs => seems to work well!
+
+## 03 Mar 2022
+
+* *4.5 hours* Compare plots & model parameters with actual virus data
+
+## 04 Mar 2022
+
+* *3.5 hours* Run ABC with different birth rates and compare result parameters and probabilities with previous run
+
+
+
+## Week 25
+
+## 21 Mar 2022
+
+* *3 hours* Simulating with effective reproduction number
+* *4 hours* Try to predict evolution from inferred values using simulations
+
+## 22 Mar 2022
+
+* *5 hours* Create script for running predictive simulations
+* *2 hours* Some discussion and assessment of results
+
+## 24 Mar 2022
+
+* *5 hours* Create plots of tumor evolution using s & t and formula from supplementary material of paper
+* *3 hours* Overlay with fraction per variant graph
+* *0.5 hours* Update git repo
+
+## 25 Mar 2022
+
+* *0.5 hours* Meeting with advisor
+
+## 26 Mar 2022
+
+* *4 hours* Structure & some lit review research
+
+## 27 Mar 2022
+
+* *4.5 hours* Methodology
+
+
+
+## Week 26
+
+## 28 Mar 2022
+
+* *9 hours* Background
+
+## 29 Mar 2022
+
+* *8.5 hours* Results and discussion overview and graphs
+
+## 30 Mar 2022
+
+* *9.5 hours* Results and discussion text
+
+## 31 Mar 2022
+
+* *10 hours* Conclusion, introduction, abstract and corrections
+* *5 hours* Source code clean up
+
