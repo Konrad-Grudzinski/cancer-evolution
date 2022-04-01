@@ -224,7 +224,7 @@ def get_freqs(case_data, country):
     week_mapping = dict()
     total_sequence_counts = np.array(cases.pop("total_sequences"))
     for i, week in enumerate(cases.pop("week")):
-        week_mapping[i] = week[:7]
+        week_mapping[i] = week[:7] # extract year & month (yyyy-mm)
     variants = {month:{variant:0 for variant in cases.keys()} for month in week_mapping.values()}
     for i, count in enumerate(total_sequence_counts):
         month = week_mapping[i]
